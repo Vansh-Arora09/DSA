@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Vansh-Arora09/DSA/tree/master/0031-next-permutation) |
 | [0128-longest-consecutive-sequence](https://github.com/Vansh-Arora09/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Vansh-Arora09/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Hash Table
 |  |
 | ------- |
