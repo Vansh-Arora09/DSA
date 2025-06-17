@@ -1,54 +1,50 @@
-const int MOD = 1e9 + 7;
-
+// this version uses static constexpr 
+const int mod=1e9+7;
 class Solution {
 public:
-    long long modInverse(long long a, long long mod){
-        long long res = 1;
-        long long power = mod - 2;
-
-        while (power){
-            if (power & 1)
-                res = res * a % mod;
-            a = a * a % mod;
-            power >>= 1;
+    static constexpr array<int, 100000> compute_fact(){
+        array<int, 100000> fact; // run in  compile time
+        long long product=1;
+        fact[0]=1;
+        for(int i=1; i<100000; i++){
+            product*=i;
+            if (product>=mod) product%=mod;
+            fact[i]=product;
         }
-
-        return res;
+        return fact;
+    }
+    static inline long long modPow(long long x, unsigned exp, int Mod=mod){
+        if (exp==0) return 1;
+        int bits=31-countl_zero(exp);
+        bitset<32> B(exp);
+        long long ans=x;
+        for(int b=bits-1; b>=0; b--){
+            ans=(ans*ans%Mod)*(B[b]?x:1)%Mod;
+        }
+        return ans;
     }
 
-    int nCr(int n, int r){
-        if (r > n) return 0;
-        if (r == 0 || r == n) return 1;
-
-        long long res = 1;
-
-        for (int i = 1; i <= r; i++){
-            res = res * (n - r + i) % MOD;
-            res = res * modInverse(i, MOD) % MOD;
+    // Euclidean algo finds x, y, d such that ax+by = d where d=gcd(a, b)
+    static inline int modInverse(int a, int b=mod) {//mod is prime d=1
+        int x0 = 1, x1 = 0;
+        int r0 = a, r1 = b;
+        while (r1 != 0) {
+            int q = r0/r1, rr = r1, xx = x1;
+            r1 = r0-q * r1;
+            x1 = x0-q * x1;
+            r0 = rr;
+            x0 = xx;
         }
-
-        return (int)res;
+        if (x0 < 0) x0+= b;
+        return x0;
     }
-
-
-    long long bin_expo(long long a, long long b)
-    {
-        long long result = 1;
-        while (b) {
-            if (b & 1)
-                result = (result * a) % MOD;
-            a = (a * a) % MOD;
-            b >>= 1;
-        }
-        return result;
+    static long long comb(int n, int k, auto& fact){
+        // use defintion for C(n, k)
+        return 1LL*fact[n]*modInverse(fact[k])%mod*modInverse(fact[n-k])%mod;
     }
-
-    int countGoodArrays(int n, int m, int k) {
-        // bin_expo = binary exponentiation = power a^b
-        int formula = (m * 1ll * bin_expo(m-1, n-(k+1))) % MOD;
-
-        int updated_formula = (formula *1ll* nCr(n-1, k)) % MOD; 
-
-        return updated_formula;
+    static int countGoodArrays(int n, int m, int k) {
+        static constexpr auto fact=compute_fact();
+        return m*modPow(m-1, n-k-1)%mod*comb(n-1, k, fact)%mod;
+        
     }
 };
