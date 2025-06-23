@@ -1,50 +1,74 @@
-class Solution {
+class Solution 
+{
 public:
+    long long kMirror(int k, int n) 
+    {
+        
+        long long sum = 0;   
+        
+        
+        int found = 0;       
 
-    long long createpalindrome(long long num, bool odd){
-        long long x = num;
-        if(odd) x/=10;
-        while(x>0){
-            num = num*10+ x%10;
-            x/=10;
-        }
-        return num;
-    }
+       
+        for (int len = 1; found < n; len++) 
+        {
+            int start = pow(10, (len - 1) / 2); 
+            int end = pow(10, (len + 1) / 2);   
 
-    bool ispalindrome(long long num, int base){
-        vector<int> digits;
-        while(num>0){
-            digits.push_back(num%base);
-            num/=base;
-        }
+            
+            for (int half = start; half < end; half++) 
+            {
+                long long pal = createPalindrome(half, len % 2 == 1);
 
-        int i=0,j=digits.size()-1;
-        while(i<j){
-            if(digits[i++]!=digits[j--]) return false;
-        }
-        return true;
-    }
-
-    long long kMirror(int k, int n) {
-        long long sum = 0;
-        for(long long len = 1;n>0;len*=10){
-
-            for(long long i = len;i<len*10 && n>0; i++){
-                long long p = createpalindrome(i,true);
-                if(ispalindrome(p,k)){
-                    sum+=p;
-                    n--;
-                }
-            }
-
-            for(long long i = len;i<len*10 && n>0;i++){
-                long long p = createpalindrome(i,false);
-                if(ispalindrome(p,k)){
-                    sum+=p;
-                    n--;
+                
+                if (isBaseKPalindrome(pal, k)) 
+                {
+                    
+                    sum += pal;     
+                    
+                    
+                    found++;        
+                    
+                    
+                    if (found == n)
+                    {
+                        return sum;
+                    }
                 }
             }
         }
+
         return sum;
+    }
+
+    
+    long long createPalindrome(int half, bool odd) 
+    {
+        long long pal = half;
+        if (odd)
+        {
+            half /= 10;
+        }
+
+        while (half > 0) 
+        {
+            pal = pal * 10 + (half % 10);
+            half /= 10;
+        }
+        return pal;
+    }
+
+    
+    bool isBaseKPalindrome(long long num, int k) 
+    {
+        long long rev = 0;
+        long long orig = num;
+        while (num > 0) 
+        {
+            rev = rev * k + num % k;
+            num /= k;
+        }
+        
+        return rev == orig;
     }
 };
