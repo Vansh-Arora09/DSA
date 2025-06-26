@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Vansh-Arora09/DSA/tree/master/0031-next-permutation) |
+| [0234-palindrome-linked-list](https://github.com/Vansh-Arora09/DSA/tree/master/0234-palindrome-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Vansh-Arora09/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Combinatorics
 |  |
@@ -76,8 +77,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Vansh-Arora09/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Vansh-Arora09/DSA/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Vansh-Arora09/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Vansh-Arora09/DSA/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Vansh-Arora09/DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
