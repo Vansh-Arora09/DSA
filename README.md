@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Vansh-Arora09/DSA/tree/master/0031-next-permutation) |
 | [0128-longest-consecutive-sequence](https://github.com/Vansh-Arora09/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Vansh-Arora09/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Vansh-Arora09/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Vansh-Arora09/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Vansh-Arora09/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Vansh-Arora09/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Vansh-Arora09/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Vansh-Arora09/DSA/tree/master/0141-linked-list-cycle) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Vansh-Arora09/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Vansh-Arora09/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Vansh-Arora09/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Union Find
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Vansh-Arora09/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Vansh-Arora09/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Vansh-Arora09/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Vansh-Arora09/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -111,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Vansh-Arora09/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Vansh-Arora09/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 <!---LeetCode Topics End-->
