@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vansh-Arora09/DSA/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Vansh-Arora09/DSA/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/Vansh-Arora09/DSA/tree/master/1013-fibonacci-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Vansh-Arora09/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Vansh-Arora09/DSA/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Vansh-Arora09/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Vansh-Arora09/DSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Vansh-Arora09/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Vansh-Arora09/DSA/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/Vansh-Arora09/DSA/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -128,11 +130,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Vansh-Arora09/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Vansh-Arora09/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vansh-Arora09/DSA/tree/master/0213-house-robber-ii) |
+| [1013-fibonacci-number](https://github.com/Vansh-Arora09/DSA/tree/master/1013-fibonacci-number) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Vansh-Arora09/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vansh-Arora09/DSA/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/Vansh-Arora09/DSA/tree/master/1013-fibonacci-number) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Vansh-Arora09/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Backtracking
 |  |
