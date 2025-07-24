@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Vansh-Arora09/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vansh-Arora09/DSA/tree/master/0213-house-robber-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vansh-Arora09/DSA/tree/master/0594-longest-harmonious-subsequence) |
+| [0898-transpose-matrix](https://github.com/Vansh-Arora09/DSA/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/Vansh-Arora09/DSA/tree/master/0932-monotonic-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vansh-Arora09/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Vansh-Arora09/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/Vansh-Arora09/DSA/tree/master/0898-transpose-matrix) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Vansh-Arora09/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Enumeration
 |  |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vansh-Arora09/DSA/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Vansh-Arora09/DSA/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
