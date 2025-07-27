@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vansh-Arora09/DSA/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Vansh-Arora09/DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Vansh-Arora09/DSA/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Vansh-Arora09/DSA/tree/master/1013-fibonacci-number) |
 | [1033-broken-calculator](https://github.com/Vansh-Arora09/DSA/tree/master/1033-broken-calculator) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vansh-Arora09/DSA/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Vansh-Arora09/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Vansh-Arora09/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Vansh-Arora09/DSA/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Vansh-Arora09/DSA/tree/master/1013-fibonacci-number) |
