@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Vansh-Arora09/DSA/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Vansh-Arora09/DSA/tree/master/0020-valid-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Vansh-Arora09/DSA/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vansh-Arora09/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0392-is-subsequence](https://github.com/Vansh-Arora09/DSA/tree/master/0392-is-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Vansh-Arora09/DSA/tree/master/1170-shortest-common-supersequence) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Vansh-Arora09/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Vansh-Arora09/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vansh-Arora09/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Vansh-Arora09/DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Vansh-Arora09/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vansh-Arora09/DSA/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Vansh-Arora09/DSA/tree/master/0322-coin-change) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Vansh-Arora09/DSA/tree/master/0131-palindrome-partitioning) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Vansh-Arora09/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Heap (Priority Queue)
 |  |
