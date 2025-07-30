@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Vansh-Arora09/DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Vansh-Arora09/DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Vansh-Arora09/DSA/tree/master/0070-climbing-stairs) |
+| [0319-bulb-switcher](https://github.com/Vansh-Arora09/DSA/tree/master/0319-bulb-switcher) |
 | [1013-fibonacci-number](https://github.com/Vansh-Arora09/DSA/tree/master/1013-fibonacci-number) |
 | [1033-broken-calculator](https://github.com/Vansh-Arora09/DSA/tree/master/1033-broken-calculator) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Vansh-Arora09/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -271,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Vansh-Arora09/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0975-range-sum-of-bst](https://github.com/Vansh-Arora09/DSA/tree/master/0975-range-sum-of-bst) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Vansh-Arora09/DSA/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
