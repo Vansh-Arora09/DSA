@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Vansh-Arora09/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Vansh-Arora09/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Vansh-Arora09/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vansh-Arora09/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2689-rearranging-fruits](https://github.com/Vansh-Arora09/DSA/tree/master/2689-rearranging-fruits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Vansh-Arora09/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Hash Table
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Vansh-Arora09/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/Vansh-Arora09/DSA/tree/master/0338-counting-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Vansh-Arora09/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vansh-Arora09/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Vansh-Arora09/DSA/tree/master/0319-bulb-switcher) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vansh-Arora09/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Prefix Sum
 |  |
 | ------- |
