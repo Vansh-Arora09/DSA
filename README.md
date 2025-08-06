@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vansh-Arora09/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2689-rearranging-fruits](https://github.com/Vansh-Arora09/DSA/tree/master/2689-rearranging-fruits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Vansh-Arora09/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3791-fruits-into-baskets-iii](https://github.com/Vansh-Arora09/DSA/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Vansh-Arora09/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Vansh-Arora09/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Vansh-Arora09/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3791-fruits-into-baskets-iii](https://github.com/Vansh-Arora09/DSA/tree/master/3791-fruits-into-baskets-iii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -300,4 +302,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Vansh-Arora09/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+## Segment Tree
+|  |
+| ------- |
+| [3791-fruits-into-baskets-iii](https://github.com/Vansh-Arora09/DSA/tree/master/3791-fruits-into-baskets-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [3791-fruits-into-baskets-iii](https://github.com/Vansh-Arora09/DSA/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
