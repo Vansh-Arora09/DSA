@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vansh-Arora09/DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Vansh-Arora09/DSA/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/Vansh-Arora09/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Vansh-Arora09/DSA/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Vansh-Arora09/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Vansh-Arora09/DSA/tree/master/0053-maximum-subarray) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vansh-Arora09/DSA/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/Vansh-Arora09/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Vansh-Arora09/DSA/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vansh-Arora09/DSA/tree/master/0208-implement-trie-prefix-tree) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vansh-Arora09/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Vansh-Arora09/DSA/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Vansh-Arora09/DSA/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/Vansh-Arora09/DSA/tree/master/0131-palindrome-partitioning) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vansh-Arora09/DSA/tree/master/0037-sudoku-solver) |
 | [0898-transpose-matrix](https://github.com/Vansh-Arora09/DSA/tree/master/0898-transpose-matrix) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Vansh-Arora09/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Bit Manipulation
