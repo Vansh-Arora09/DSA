@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/Vansh-Arora09/DSA/tree/master/2689-rearranging-fruits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Vansh-Arora09/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Vansh-Arora09/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Vansh-Arora09/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Vansh-Arora09/DSA/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/Vansh-Arora09/DSA/tree/master/2689-rearranging-fruits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Vansh-Arora09/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Vansh-Arora09/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Vansh-Arora09/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 ## String
 |  |
 | ------- |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Vansh-Arora09/DSA/tree/master/0037-sudoku-solver) |
 | [0898-transpose-matrix](https://github.com/Vansh-Arora09/DSA/tree/master/0898-transpose-matrix) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Vansh-Arora09/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Vansh-Arora09/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 ## Bit Manipulation
 |  |
 | ------- |
