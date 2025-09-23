@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Vansh-Arora09/DSA/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/Vansh-Arora09/DSA/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Vansh-Arora09/DSA/tree/master/0148-sort-list) |
+| [0165-compare-version-numbers](https://github.com/Vansh-Arora09/DSA/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Vansh-Arora09/DSA/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/Vansh-Arora09/DSA/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Vansh-Arora09/DSA/tree/master/0455-assign-cookies) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Vansh-Arora09/DSA/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Vansh-Arora09/DSA/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Vansh-Arora09/DSA/tree/master/0131-palindrome-partitioning) |
+| [0165-compare-version-numbers](https://github.com/Vansh-Arora09/DSA/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vansh-Arora09/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0392-is-subsequence](https://github.com/Vansh-Arora09/DSA/tree/master/0392-is-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Vansh-Arora09/DSA/tree/master/1170-shortest-common-supersequence) |
