@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Vansh-Arora09/DSA/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Vansh-Arora09/DSA/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/Vansh-Arora09/DSA/tree/master/0455-assign-cookies) |
+| [0474-ones-and-zeroes](https://github.com/Vansh-Arora09/DSA/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Vansh-Arora09/DSA/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/Vansh-Arora09/DSA/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vansh-Arora09/DSA/tree/master/0594-longest-harmonious-subsequence) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Vansh-Arora09/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Vansh-Arora09/DSA/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Vansh-Arora09/DSA/tree/master/0392-is-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/Vansh-Arora09/DSA/tree/master/0474-ones-and-zeroes) |
 | [1170-shortest-common-supersequence](https://github.com/Vansh-Arora09/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Vansh-Arora09/DSA/tree/master/1250-longest-common-subsequence) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vansh-Arora09/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Vansh-Arora09/DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Vansh-Arora09/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Vansh-Arora09/DSA/tree/master/0392-is-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/Vansh-Arora09/DSA/tree/master/0474-ones-and-zeroes) |
 | [0826-soup-servings](https://github.com/Vansh-Arora09/DSA/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Vansh-Arora09/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Vansh-Arora09/DSA/tree/master/1013-fibonacci-number) |
