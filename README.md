@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Vansh-Arora09/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2887-sort-vowels-in-a-string](https://github.com/Vansh-Arora09/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Vansh-Arora09/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Vansh-Arora09/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3617-find-the-original-typed-string-i](https://github.com/Vansh-Arora09/DSA/tree/master/3617-find-the-original-typed-string-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Vansh-Arora09/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Vansh-Arora09/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Vansh-Arora09/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Vansh-Arora09/DSA/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Vansh-Arora09/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Vansh-Arora09/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Linked List
 |  |
 | ------- |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Vansh-Arora09/DSA/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vansh-Arora09/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Vansh-Arora09/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Vansh-Arora09/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Divide and Conquer
 |  |
 | ------- |
