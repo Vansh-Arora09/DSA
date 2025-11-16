@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Vansh-Arora09/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Vansh-Arora09/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Vansh-Arora09/DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2625-increment-submatrices-by-one](https://github.com/Vansh-Arora09/DSA/tree/master/2625-increment-submatrices-by-one) |
 | [2689-rearranging-fruits](https://github.com/Vansh-Arora09/DSA/tree/master/2689-rearranging-fruits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Vansh-Arora09/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Vansh-Arora09/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Vansh-Arora09/DSA/tree/master/0037-sudoku-solver) |
 | [0498-diagonal-traverse](https://github.com/Vansh-Arora09/DSA/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/Vansh-Arora09/DSA/tree/master/0898-transpose-matrix) |
+| [2625-increment-submatrices-by-one](https://github.com/Vansh-Arora09/DSA/tree/master/2625-increment-submatrices-by-one) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Vansh-Arora09/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Vansh-Arora09/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Vansh-Arora09/DSA/tree/master/3748-sort-matrix-by-diagonals) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Vansh-Arora09/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2625-increment-submatrices-by-one](https://github.com/Vansh-Arora09/DSA/tree/master/2625-increment-submatrices-by-one) |
 ## Segment Tree
 |  |
 | ------- |
