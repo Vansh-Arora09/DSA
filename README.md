@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Vansh-Arora09/DSA/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Vansh-Arora09/DSA/tree/master/0917-boats-to-save-people) |
 | [1033-broken-calculator](https://github.com/Vansh-Arora09/DSA/tree/master/1033-broken-calculator) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Vansh-Arora09/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Vansh-Arora09/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vansh-Arora09/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Vansh-Arora09/DSA/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/Vansh-Arora09/DSA/tree/master/0932-monotonic-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Vansh-Arora09/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Vansh-Arora09/DSA/tree/master/0940-fruit-into-baskets) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Vansh-Arora09/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vansh-Arora09/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vansh-Arora09/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Vansh-Arora09/DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/Vansh-Arora09/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0900-reordered-power-of-2](https://github.com/Vansh-Arora09/DSA/tree/master/0900-reordered-power-of-2) |
 | [0917-boats-to-save-people](https://github.com/Vansh-Arora09/DSA/tree/master/0917-boats-to-save-people) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Vansh-Arora09/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vansh-Arora09/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Vansh-Arora09/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Vansh-Arora09/DSA/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Vansh-Arora09/DSA/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/Vansh-Arora09/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Vansh-Arora09/DSA/tree/master/1250-longest-common-subsequence) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Vansh-Arora09/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vansh-Arora09/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vansh-Arora09/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Vansh-Arora09/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
