@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/Vansh-Arora09/DSA/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Vansh-Arora09/DSA/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Vansh-Arora09/DSA/tree/master/1013-fibonacci-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Vansh-Arora09/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1033-broken-calculator](https://github.com/Vansh-Arora09/DSA/tree/master/1033-broken-calculator) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Vansh-Arora09/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Vansh-Arora09/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Vansh-Arora09/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/Vansh-Arora09/DSA/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Vansh-Arora09/DSA/tree/master/0940-fruit-into-baskets) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Vansh-Arora09/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vansh-Arora09/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vansh-Arora09/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vansh-Arora09/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
