@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Vansh-Arora09/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Vansh-Arora09/DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vansh-Arora09/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vansh-Arora09/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Vansh-Arora09/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Vansh-Arora09/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Vansh-Arora09/DSA/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Vansh-Arora09/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vansh-Arora09/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vansh-Arora09/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vansh-Arora09/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Vansh-Arora09/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Vansh-Arora09/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Vansh-Arora09/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
