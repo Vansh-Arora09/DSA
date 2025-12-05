@@ -13,7 +13,7 @@ public:
         for(int i=0;i<n-1;i++){
             long long left = arr[i];
             long long right = total - left;
-            if((left%2+2)%2 == (right%2+2)%2){
+            if((abs(left-right))%2==0){
                 cnt++;
             }
         }
