@@ -12,7 +12,7 @@ public:
         mpp['M'] = 1000;
         int n = s.length();
         for(int i=0;i<n;i++){
-            if(i<n && mpp[s[i]]<mpp[s[i+1]]){
+            if(i<n-1 && mpp[s[i]]<mpp[s[i+1]]){
                 sum-=mpp[s[i]];
             }
             else{
