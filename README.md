@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Vansh-Arora09/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Vansh-Arora09/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Vansh-Arora09/DSA/tree/master/0039-combination-sum) |
+| [0049-group-anagrams](https://github.com/Vansh-Arora09/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Vansh-Arora09/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Vansh-Arora09/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Vansh-Arora09/DSA/tree/master/0066-plus-one) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Vansh-Arora09/DSA/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Vansh-Arora09/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Vansh-Arora09/DSA/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/Vansh-Arora09/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Vansh-Arora09/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Vansh-Arora09/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vansh-Arora09/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Vansh-Arora09/DSA/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Vansh-Arora09/DSA/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Vansh-Arora09/DSA/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Vansh-Arora09/DSA/tree/master/0455-assign-cookies) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Vansh-Arora09/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Vansh-Arora09/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vansh-Arora09/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Vansh-Arora09/DSA/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/Vansh-Arora09/DSA/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/Vansh-Arora09/DSA/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vansh-Arora09/DSA/tree/master/0208-implement-trie-prefix-tree) |
