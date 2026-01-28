@@ -2,12 +2,12 @@ class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
         int n = s.length();
-        unordered_map<int,int> mpp;
+        vector<int> mpp(128, -1);
         int left=0;
         int maxlen=0;
         for(int i=0;i<n;i++){
             
-            if(mpp.find(s[i])!=mpp.end()){
+            if(mpp[s[i]]!=-1){
                 left = max(left, mpp[s[i]]+1);
             }
             mpp[s[i]] = i;
