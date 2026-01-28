@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Vansh-Arora09/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vansh-Arora09/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Vansh-Arora09/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0724-find-pivot-index](https://github.com/Vansh-Arora09/DSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Vansh-Arora09/DSA/tree/master/0739-daily-temperatures) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Vansh-Arora09/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0890-lemonade-change](https://github.com/Vansh-Arora09/DSA/tree/master/0890-lemonade-change) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Vansh-Arora09/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/Vansh-Arora09/DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vansh-Arora09/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1109-corporate-flight-bookings](https://github.com/Vansh-Arora09/DSA/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vansh-Arora09/DSA/tree/master/1248-count-number-of-nice-subarrays) |
