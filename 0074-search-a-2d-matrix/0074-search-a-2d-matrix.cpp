@@ -4,18 +4,20 @@ public:
         int m = matrix.size();
         int n = matrix[0].size();
 
-        for(int i=0;i<m;i++){
+        
             int start=0;
-            int end = n-1;
+            int end = m*n-1;
 
             while(start<=end){
                 int mid = start+(end - start)/2;
 
-                if(matrix[i][mid]==target) return true;
-                else if(matrix[i][mid]>target) end = mid-1;
+                int row = mid/n;
+                int col = mid%n;
+                if(matrix[row][col]==target) return true;
+                else if(matrix[row][col]>target) end = mid-1;
                 else start = mid+1;
             }
-        }
+        
         return false;
     }
 };
