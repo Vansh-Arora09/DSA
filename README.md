@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Vansh-Arora09/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vansh-Arora09/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Vansh-Arora09/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0162-find-peak-element](https://github.com/Vansh-Arora09/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Vansh-Arora09/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Vansh-Arora09/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Vansh-Arora09/DSA/tree/master/0213-house-robber-ii) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Vansh-Arora09/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Vansh-Arora09/DSA/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/Vansh-Arora09/DSA/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Vansh-Arora09/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/Vansh-Arora09/DSA/tree/master/0704-binary-search) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vansh-Arora09/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
