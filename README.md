@@ -530,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Vansh-Arora09/DSA/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Vansh-Arora09/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/Vansh-Arora09/DSA/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Vansh-Arora09/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Vansh-Arora09/DSA/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vansh-Arora09/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vansh-Arora09/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -786,4 +787,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Vansh-Arora09/DSA/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Vansh-Arora09/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
