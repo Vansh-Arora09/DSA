@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Vansh-Arora09/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Vansh-Arora09/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Vansh-Arora09/DSA/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Vansh-Arora09/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Vansh-Arora09/DSA/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Vansh-Arora09/DSA/tree/master/0739-daily-temperatures) |
 | [2211-count-collisions-on-a-road](https://github.com/Vansh-Arora09/DSA/tree/master/2211-count-collisions-on-a-road) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Vansh-Arora09/DSA/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vansh-Arora09/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0225-implement-stack-using-queues](https://github.com/Vansh-Arora09/DSA/tree/master/0225-implement-stack-using-queues) |
 | [3678-design-task-manager](https://github.com/Vansh-Arora09/DSA/tree/master/3678-design-task-manager) |
 ## Trie
 |  |
@@ -763,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Vansh-Arora09/DSA/tree/master/0225-implement-stack-using-queues) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Vansh-Arora09/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Monotonic Queue
 |  |
