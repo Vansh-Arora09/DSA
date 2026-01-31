@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Vansh-Arora09/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Vansh-Arora09/DSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Vansh-Arora09/DSA/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Vansh-Arora09/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Vansh-Arora09/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0890-lemonade-change](https://github.com/Vansh-Arora09/DSA/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Vansh-Arora09/DSA/tree/master/0898-transpose-matrix) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Vansh-Arora09/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Vansh-Arora09/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Vansh-Arora09/DSA/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Vansh-Arora09/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vansh-Arora09/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vansh-Arora09/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vansh-Arora09/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
