@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Vansh-Arora09/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Vansh-Arora09/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Vansh-Arora09/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Vansh-Arora09/DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vansh-Arora09/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/Vansh-Arora09/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Vansh-Arora09/DSA/tree/master/0118-pascals-triangle) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Vansh-Arora09/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Vansh-Arora09/DSA/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Vansh-Arora09/DSA/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Vansh-Arora09/DSA/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Vansh-Arora09/DSA/tree/master/0131-palindrome-partitioning) |
 | [0756-pyramid-transition-matrix](https://github.com/Vansh-Arora09/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Vansh-Arora09/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Vansh-Arora09/DSA/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Vansh-Arora09/DSA/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/Vansh-Arora09/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Vansh-Arora09/DSA/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Vansh-Arora09/DSA/tree/master/0338-counting-bits) |
