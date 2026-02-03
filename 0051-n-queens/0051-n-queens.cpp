@@ -1,34 +1,50 @@
 class Solution {
 public:
-    void backtrack(int n, int row, 
-                vector<bool>& columns, vector<bool>& diag1, vector<bool>& diag2,
-                vector<string>& board,
-                vector<vector<string>>& result){
-                    if(row == n){
-                        result.push_back(board);
-                        return;
-                    }
-                    
-                    for(int col = 0; col < n; col++){
-                        if(columns[col] || diag1[row - col + n - 1] || diag2[row + col]) continue;
-                        
-                        board[row][col] = 'Q';
-                        columns[col] = diag1[row - col + n - 1] = diag2[row + col] = true;
-                        
-                        backtrack(n, row + 1, columns, diag1, diag2, board, result);
-                        
-                        board[row][col] = '.';
-                        columns[col] = diag1[row - col + n - 1] = diag2[row + col] = false;
-                    }
-                }
 
-    vector<vector<string>> solveNQueens(int n){
-        vector<vector<string>> result;
-        vector<string> board(n, string(n, '.'));
-        vector<bool> columns(n, false);
-        vector<bool> diag1(2*n-1, false);
-        vector<bool> diag2(2*n-1, false);
-        backtrack(n, 0, columns, diag1, diag2, board, result);
-        return result;
+    vector<vector<string>> ans;
+    vector<string> arrangements;
+
+    bool isValid(int r, int c){
+        if(r==arrangements.size()) return false;
+
+        for(int top=r;top>=0;top--){
+            if(arrangements[top][c]=='Q') return false;
+        }
+
+        int startr = r; int startc = c;
+
+        while(startr>=0 && startc!=arrangements.size()){
+            if(arrangements[startr][startc]=='Q') return false;
+            startr--, startc++;
+        }
+
+        startr=r, startc = c;
+
+        while(startr>=0 && startc>=0){
+            if(arrangements[startr][startc]=='Q') return false;
+            startr--, startc--;
+        }
+        return true;
+    }
+void placingQueen(int r, int c, int placed, int n){
+    if(placed==n){
+        ans.push_back(arrangements);
+        return ;
+    }
+
+    for(int curcol = c; curcol<n ;curcol++){
+        if(isValid(r,curcol)){
+            arrangements[r][curcol] = 'Q';
+            placingQueen(r+1,0,placed+1, n);
+            arrangements[r][curcol] = '.';
+        }
+    }
+}
+    vector<vector<string>> solveNQueens(int n) {
+        
+        arrangements.resize(n,string(n,'.'));
+        placingQueen(0,0,0,n);
+        
+        return ans;
     }
 };
