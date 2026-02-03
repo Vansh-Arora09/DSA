@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Vansh-Arora09/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Vansh-Arora09/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3637-trionic-array-i](https://github.com/Vansh-Arora09/DSA/tree/master/3637-trionic-array-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Vansh-Arora09/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Vansh-Arora09/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Vansh-Arora09/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
