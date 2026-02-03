@@ -1,54 +1,47 @@
 class Solution {
-    int n = 3, N = 9;
-    int rows[9][10] = {}, cols[9][10] = {}, boxes[9][10] = {};
-    vector<vector<char>>* boardPtr;
-    bool sudokuSolved = false;
-
-    bool couldPlace(int d, int row, int col) {
-        int idx = (row / n) * n + col / n;
-        return rows[row][d] + cols[col][d] + boxes[idx][d] == 0;
-    }
-
-    void placeNumber(int d, int row, int col) {
-        int idx = (row / n) * n + col / n;
-        rows[row][d]++;
-        cols[col][d]++;
-        boxes[idx][d]++;
-        (*boardPtr)[row][col] = d + '0';
-    }
-
-    void removeNumber(int d, int row, int col) {
-        int idx = (row / n) * n + col / n;
-        rows[row][d]--;
-        cols[col][d]--;
-        boxes[idx][d]--;
-        (*boardPtr)[row][col] = '.';
-    }
-
-    void placeNextNumbers(int row, int col) {
-        if (row == N - 1 && col == N - 1) sudokuSolved = true;
-        else if (col == N - 1) backtrack(row + 1, 0);
-        else backtrack(row, col + 1);
-    }
-
-    void backtrack(int row, int col) {
-        if ((*boardPtr)[row][col] == '.') {
-            for (int d = 1; d <= 9; d++) {
-                if (couldPlace(d, row, col)) {
-                    placeNumber(d, row, col);
-                    placeNextNumbers(row, col);
-                    if (!sudokuSolved) removeNumber(d, row, col);
-                }
-            }
-        } else placeNextNumbers(row, col);
-    }
-
 public:
+    vector<vector<char>> ans;
+    bool isValid(int r, int c, char num, vector<vector<char>>& sudoku) {
+        if(sudoku[r][c] != '.') return false;
+        for(int curr = 0; curr < 9; curr++) {
+            if(sudoku[curr][c] == num) return false;
+            if(sudoku[r][curr] == num) return false;
+        }
+        // Defining boundary for boxes
+        int startRow = (r / 3) * 3;
+        int startCol = (c / 3) * 3;
+
+        for(int i = startRow; i < startRow + 3; i++) {
+            for(int j = startCol; j < startCol + 3; j++) {
+                if(sudoku[i][j] == num) return false;
+            }
+        }
+        return true;
+    }
+
+    void solver(int r, int c, int emptyCell, vector<vector<char>>& sudoku) {
+        if(emptyCell == 0) {
+            ans = sudoku;
+            return;
+        }
+    
+        if(sudoku[r][c] != '.') {
+            solver(r + (c + 1 == 9), (c + 1) % 9, emptyCell, sudoku);
+        }
+        for(char i = '1'; i <= '9'; i++) {
+            
+            if(isValid(r, c, i, sudoku)) {
+                sudoku[r][c] = i;
+                solver(r + (c + 1 == 9), (c + 1) % 9, emptyCell - 1, sudoku);
+                sudoku[r][c] = '.';
+            }
+        }
+    }
+
     void solveSudoku(vector<vector<char>>& board) {
-        boardPtr = &board;
-        for (int i = 0; i < N; i++)
-            for (int j = 0; j < N; j++)
-                if (board[i][j] != '.') placeNumber(board[i][j] - '0', i, j);
-        backtrack(0, 0);
+        int emptyCell = 0;
+        for(int i = 0; i < 9; i++) for(int j = 0; j < 9; j++) emptyCell += (board[i][j] == '.');
+        solver(0, 0, emptyCell, board);
+        board = ans;
     }
 };
