@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/Vansh-Arora09/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3637-trionic-array-i](https://github.com/Vansh-Arora09/DSA/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Vansh-Arora09/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Vansh-Arora09/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Vansh-Arora09/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Vansh-Arora09/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Vansh-Arora09/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Vansh-Arora09/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3640-trionic-array-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Vansh-Arora09/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Vansh-Arora09/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Vansh-Arora09/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
