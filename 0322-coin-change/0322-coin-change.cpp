@@ -1,17 +1,25 @@
 class Solution {
 public:
-    int coinChange(vector<int>& coins, int amount) {
-        vector<int> minCoins(amount + 1, amount + 1);
-        minCoins[0] = 0;
-
-        for (int i = 1; i <= amount; i++) {
-            for (int j = 0; j < coins.size(); j++) {
-                if (i - coins[j] >= 0) {
-                    minCoins[i] = min(minCoins[i], 1 + minCoins[i - coins[j]]);
-                }
-            }
+    vector<vector<int>> dp;
+    int possCoin(int idx, vector<int>&coins, int target){
+        if(target==0 ){
+            return 0;
         }
+        
+        if(idx>=coins.size()) return 1e9;
+        if(dp[idx][target]!=-1) return dp[idx][target];
+        int pick=1e9;
+        if(coins[idx]<=target){
+            pick = 1 + possCoin(idx, coins, target-coins[idx]);
+        }
+        int notpick = possCoin(idx+1,coins, target);
 
-        return minCoins[amount] != amount + 1 ? minCoins[amount] : -1;        
+        return dp[idx][target] = min(pick, notpick);
+    }
+    int coinChange(vector<int>& coins, int amount) {
+        int n = coins.size();
+        dp.resize(n,vector<int>(amount+1, -1));
+        int ans = possCoin(0,coins,amount);
+        return ans==1e9 ? -1 : ans;
     }
 };
