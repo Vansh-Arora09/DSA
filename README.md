@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Vansh-Arora09/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Vansh-Arora09/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Vansh-Arora09/DSA/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/Vansh-Arora09/DSA/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Vansh-Arora09/DSA/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/Vansh-Arora09/DSA/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vansh-Arora09/DSA/tree/master/0208-implement-trie-prefix-tree) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Vansh-Arora09/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Vansh-Arora09/DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Vansh-Arora09/DSA/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/Vansh-Arora09/DSA/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Vansh-Arora09/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vansh-Arora09/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Vansh-Arora09/DSA/tree/master/0131-palindrome-partitioning) |
