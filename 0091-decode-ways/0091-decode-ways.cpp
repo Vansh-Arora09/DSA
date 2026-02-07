@@ -21,7 +21,26 @@ public:
         
     }
     int numDecodings(string s) {
-        vector<int> dp(s.length(),-1);
-        return recfun(s, 0, dp);
+        vector<int> dp(s.length()+1,-1);
+        dp[s.length()] = 1;
+
+        for(int i=s.length()-1;i>=0;i--){
+            int single=0;
+            int dbl=0;
+
+            if(s[i]!='0'){
+                single = dp[i+1];
+            }
+            if(i<s.length()-1){
+                string num = "";
+                num+=s[i];
+                num+=s[i+1];
+                if(num>="10" && num<="26"){
+                    dbl = dp[i+2];
+                }
+            }
+            dp[i] = (single+dbl);
+        }
+        return dp[0];
     }
 };
