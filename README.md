@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/Vansh-Arora09/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Vansh-Arora09/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Vansh-Arora09/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3340-check-balanced-string](https://github.com/Vansh-Arora09/DSA/tree/master/3340-check-balanced-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Vansh-Arora09/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Vansh-Arora09/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3606-coupon-code-validator](https://github.com/Vansh-Arora09/DSA/tree/master/3606-coupon-code-validator) |
