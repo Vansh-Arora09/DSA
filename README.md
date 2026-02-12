@@ -758,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Vansh-Arora09/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0450-delete-node-in-a-bst](https://github.com/Vansh-Arora09/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Vansh-Arora09/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Vansh-Arora09/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vansh-Arora09/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Vansh-Arora09/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Vansh-Arora09/DSA/tree/master/0975-range-sum-of-bst) |
@@ -780,6 +781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Vansh-Arora09/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0450-delete-node-in-a-bst](https://github.com/Vansh-Arora09/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Vansh-Arora09/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Vansh-Arora09/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vansh-Arora09/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Vansh-Arora09/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Vansh-Arora09/DSA/tree/master/0975-range-sum-of-bst) |
@@ -791,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vansh-Arora09/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Vansh-Arora09/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Vansh-Arora09/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Vansh-Arora09/DSA/tree/master/0975-range-sum-of-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vansh-Arora09/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Brainteaser
