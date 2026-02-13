@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3625-count-number-of-trapezoids-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3678-design-task-manager](https://github.com/Vansh-Arora09/DSA/tree/master/3678-design-task-manager) |
 | [3713-longest-balanced-substring-i](https://github.com/Vansh-Arora09/DSA/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vansh-Arora09/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Vansh-Arora09/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Vansh-Arora09/DSA/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/Vansh-Arora09/DSA/tree/master/3617-find-the-original-typed-string-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Vansh-Arora09/DSA/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3714-longest-balanced-substring-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Vansh-Arora09/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Vansh-Arora09/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Vansh-Arora09/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -848,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Vansh-Arora09/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Vansh-Arora09/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Vansh-Arora09/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3714-longest-balanced-substring-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vansh-Arora09/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 ## Segment Tree
