@@ -11,14 +11,35 @@
  */
 class Solution {
 public:
-    vector<int> ans;
     vector<int> inorderTraversal(TreeNode* root) {
-        if(!root) return {};
+        vector<int> ans;
+        TreeNode* curr = root;
+        while(curr!=NULL){
+            // does curr hav eleft child
+            //find the inorder predecessor IP
+            if(curr->left!=NULL){
+                TreeNode* ip = curr->left;
+                while(ip->right!=NULL && ip->right!=curr){
+                    ip = ip->right;
+                }
+                if(ip->right==NULL){
+                    //pesudo link creation
 
-        inorderTraversal(root->left);
-        ans.push_back(root->val);
-        inorderTraversal(root->right);
+                    ip->right = curr;
+                    curr = curr->left;
+                }
+                else{
+                    //print curr node and delete link and move to right
+                    ans.push_back(curr->val);
+                    ip->right = NULL;
+                    curr = curr->right;
+                }
+            }
+            else{
+                ans.push_back(curr->val);
+                curr = curr->right;
+            }
+        }
         return ans;
     }
-
 };
