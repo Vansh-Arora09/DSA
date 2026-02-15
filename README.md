@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Vansh-Arora09/DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Vansh-Arora09/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Vansh-Arora09/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Vansh-Arora09/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Vansh-Arora09/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Vansh-Arora09/DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Vansh-Arora09/DSA/tree/master/0231-power-of-two) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vansh-Arora09/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Vansh-Arora09/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Vansh-Arora09/DSA/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Vansh-Arora09/DSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Vansh-Arora09/DSA/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Vansh-Arora09/DSA/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Vansh-Arora09/DSA/tree/master/0131-palindrome-partitioning) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Vansh-Arora09/DSA/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Vansh-Arora09/DSA/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/Vansh-Arora09/DSA/tree/master/0898-transpose-matrix) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Vansh-Arora09/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -670,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Vansh-Arora09/DSA/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Vansh-Arora09/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Vansh-Arora09/DSA/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/Vansh-Arora09/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Vansh-Arora09/DSA/tree/master/0231-power-of-two) |
