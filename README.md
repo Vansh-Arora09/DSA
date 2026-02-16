@@ -647,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vansh-Arora09/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Vansh-Arora09/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Vansh-Arora09/DSA/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Vansh-Arora09/DSA/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Vansh-Arora09/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vansh-Arora09/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vansh-Arora09/DSA/tree/master/3719-longest-balanced-subarray-i) |
@@ -677,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Vansh-Arora09/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Vansh-Arora09/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Vansh-Arora09/DSA/tree/master/0078-subsets) |
+| [0190-reverse-bits](https://github.com/Vansh-Arora09/DSA/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Vansh-Arora09/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Vansh-Arora09/DSA/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Vansh-Arora09/DSA/tree/master/0338-counting-bits) |
