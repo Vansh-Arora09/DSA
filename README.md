@@ -580,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Vansh-Arora09/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Vansh-Arora09/DSA/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Vansh-Arora09/DSA/tree/master/0131-palindrome-partitioning) |
+| [0401-binary-watch](https://github.com/Vansh-Arora09/DSA/tree/master/0401-binary-watch) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Vansh-Arora09/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/Vansh-Arora09/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Vansh-Arora09/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -683,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Vansh-Arora09/DSA/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Vansh-Arora09/DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Vansh-Arora09/DSA/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/Vansh-Arora09/DSA/tree/master/0401-binary-watch) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Vansh-Arora09/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/Vansh-Arora09/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Vansh-Arora09/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
