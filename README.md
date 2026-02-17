@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Vansh-Arora09/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Vansh-Arora09/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Vansh-Arora09/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [2965-find-missing-and-repeated-values](https://github.com/Vansh-Arora09/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Vansh-Arora09/DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Vansh-Arora09/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Vansh-Arora09/DSA/tree/master/3433-count-mentions-per-user) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/Vansh-Arora09/DSA/tree/master/2625-increment-submatrices-by-one) |
 | [2689-rearranging-fruits](https://github.com/Vansh-Arora09/DSA/tree/master/2689-rearranging-fruits) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Vansh-Arora09/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2965-find-missing-and-repeated-values](https://github.com/Vansh-Arora09/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Vansh-Arora09/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Vansh-Arora09/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vansh-Arora09/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Vansh-Arora09/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vansh-Arora09/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2689-rearranging-fruits](https://github.com/Vansh-Arora09/DSA/tree/master/2689-rearranging-fruits) |
+| [2965-find-missing-and-repeated-values](https://github.com/Vansh-Arora09/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Vansh-Arora09/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Vansh-Arora09/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -685,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/Vansh-Arora09/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Vansh-Arora09/DSA/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/Vansh-Arora09/DSA/tree/master/2625-increment-submatrices-by-one) |
+| [2965-find-missing-and-repeated-values](https://github.com/Vansh-Arora09/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Vansh-Arora09/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Vansh-Arora09/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Vansh-Arora09/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
