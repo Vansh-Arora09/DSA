@@ -1,46 +1,45 @@
+struct Node{
+    Node *links[26];
+    bool isEnd;
+    Node(){
+        for(int i=0;i<26;i++){
+            links[i] = NULL;
+            isEnd =false;
+        }
+    }
+};
+Node* root;
 class Trie {
 public:
-    Trie* v[26];
-    bool end;
     Trie() {
-        end = false;
-        for (int i = 0; i < 26; i++) {
-            v[i] = nullptr;
-        }
+        root = new Node();
     }
-
+    
     void insert(string word) {
-        int n = word.size();
-        Trie* root = this;
-        Trie* curr = root;
-        for (int i = 0; i < n; i++) {
-            if (curr->v[word[i] - 'a'] == nullptr) {
-                curr->v[word[i] - 'a'] = new Trie();
+        Node* temp = root;
+        for(auto ch : word){
+            if(temp->links[ch-'a']==NULL){
+                temp->links[ch-'a'] = new Node();
             }
-            curr = curr->v[word[i] - 'a'];
+            temp = temp->links[ch-'a'];
         }
-        curr->end = true;
+        temp->isEnd = true;
     }
-
+    
     bool search(string word) {
-        int n = word.size();
-        Trie* curr = this;
-        for (int i = 0; i < n; i++) {
-            if (curr->v[word[i] - 'a'] == nullptr) {
-                return false;
-            }
-            curr = curr->v[word[i] - 'a'];
+        Node* temp = root;
+        for(auto ch : word){
+            if(temp->links[ch-'a']==NULL) return false;
+            temp = temp->links[ch-'a'];
         }
-        return curr->end;
+        return temp->isEnd;
     }
-
+    
     bool startsWith(string prefix) {
-        int n = prefix.length();
-        Trie* curr = this;
-        for (int i = 0; i < n; i++) {
-            if (curr->v[prefix[i] - 'a'] == nullptr)
-                return false;
-            curr = curr->v[prefix[i] - 'a'];
+        Node* temp = root;
+        for(auto ch : prefix){
+            if(temp->links[ch-'a']==NULL) return false;
+            temp = temp->links[ch-'a'];
         }
         return true;
     }
