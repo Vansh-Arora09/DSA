@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Vansh-Arora09/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Vansh-Arora09/DSA/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Vansh-Arora09/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vansh-Arora09/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0826-soup-servings](https://github.com/Vansh-Arora09/DSA/tree/master/0826-soup-servings) |
 | [0887-super-egg-drop](https://github.com/Vansh-Arora09/DSA/tree/master/0887-super-egg-drop) |
 | [0900-reordered-power-of-2](https://github.com/Vansh-Arora09/DSA/tree/master/0900-reordered-power-of-2) |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/Vansh-Arora09/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Vansh-Arora09/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/Vansh-Arora09/DSA/tree/master/0756-pyramid-transition-matrix) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vansh-Arora09/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Vansh-Arora09/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Vansh-Arora09/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Vansh-Arora09/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
