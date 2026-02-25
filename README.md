@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vansh-Arora09/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vansh-Arora09/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vansh-Arora09/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vansh-Arora09/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Vansh-Arora09/DSA/tree/master/1390-four-divisors) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vansh-Arora09/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Vansh-Arora09/DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Vansh-Arora09/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vansh-Arora09/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vansh-Arora09/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vansh-Arora09/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Vansh-Arora09/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Vansh-Arora09/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vansh-Arora09/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Vansh-Arora09/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vansh-Arora09/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/Vansh-Arora09/DSA/tree/master/0900-reordered-power-of-2) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vansh-Arora09/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vansh-Arora09/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Vansh-Arora09/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Vansh-Arora09/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -731,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vansh-Arora09/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Vansh-Arora09/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Vansh-Arora09/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vansh-Arora09/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Vansh-Arora09/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Vansh-Arora09/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vansh-Arora09/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
