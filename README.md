@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/Vansh-Arora09/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Vansh-Arora09/DSA/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vansh-Arora09/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vansh-Arora09/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2054-two-best-non-overlapping-events](https://github.com/Vansh-Arora09/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vansh-Arora09/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Vansh-Arora09/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vansh-Arora09/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Vansh-Arora09/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Vansh-Arora09/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vansh-Arora09/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vansh-Arora09/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Vansh-Arora09/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vansh-Arora09/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Vansh-Arora09/DSA/tree/master/0900-reordered-power-of-2) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vansh-Arora09/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vansh-Arora09/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vansh-Arora09/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Vansh-Arora09/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Vansh-Arora09/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Vansh-Arora09/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
