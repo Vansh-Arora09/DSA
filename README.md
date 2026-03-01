@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vansh-Arora09/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vansh-Arora09/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Vansh-Arora09/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vansh-Arora09/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vansh-Arora09/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vansh-Arora09/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Vansh-Arora09/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Vansh-Arora09/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1544-make-the-string-great](https://github.com/Vansh-Arora09/DSA/tree/master/1544-make-the-string-great) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Vansh-Arora09/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vansh-Arora09/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vansh-Arora09/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1745-palindrome-partitioning-iv](https://github.com/Vansh-Arora09/DSA/tree/master/1745-palindrome-partitioning-iv) |
 | [1903-largest-odd-number-in-string](https://github.com/Vansh-Arora09/DSA/tree/master/1903-largest-odd-number-in-string) |
