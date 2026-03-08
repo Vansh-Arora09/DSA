@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/Vansh-Arora09/DSA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Vansh-Arora09/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Vansh-Arora09/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vansh-Arora09/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Vansh-Arora09/DSA/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/Vansh-Arora09/DSA/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Vansh-Arora09/DSA/tree/master/0485-max-consecutive-ones) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Vansh-Arora09/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Vansh-Arora09/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Vansh-Arora09/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vansh-Arora09/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Vansh-Arora09/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Vansh-Arora09/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vansh-Arora09/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
