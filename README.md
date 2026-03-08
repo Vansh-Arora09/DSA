@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Vansh-Arora09/DSA/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Vansh-Arora09/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Vansh-Arora09/DSA/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/Vansh-Arora09/DSA/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vansh-Arora09/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vansh-Arora09/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2054-two-best-non-overlapping-events](https://github.com/Vansh-Arora09/DSA/tree/master/2054-two-best-non-overlapping-events) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vansh-Arora09/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1590-make-sum-divisible-by-p](https://github.com/Vansh-Arora09/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Vansh-Arora09/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1980-find-unique-binary-string](https://github.com/Vansh-Arora09/DSA/tree/master/1980-find-unique-binary-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vansh-Arora09/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vansh-Arora09/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Vansh-Arora09/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Vansh-Arora09/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vansh-Arora09/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1903-largest-odd-number-in-string](https://github.com/Vansh-Arora09/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1980-find-unique-binary-string](https://github.com/Vansh-Arora09/DSA/tree/master/1980-find-unique-binary-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vansh-Arora09/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Vansh-Arora09/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Vansh-Arora09/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -651,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/Vansh-Arora09/DSA/tree/master/0401-binary-watch) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Vansh-Arora09/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0756-pyramid-transition-matrix](https://github.com/Vansh-Arora09/DSA/tree/master/0756-pyramid-transition-matrix) |
+| [1980-find-unique-binary-string](https://github.com/Vansh-Arora09/DSA/tree/master/1980-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Vansh-Arora09/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Heap (Priority Queue)
 |  |
