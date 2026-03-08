@@ -1,14 +1,25 @@
 class Solution {
 public:
     string finalString(string s) {
-        string st="";
-        for(int i=0;i<s.length();i++){
-            if(s[i]!='i'){
-                st+=s[i];
+        deque<char> d;
+        int n = s.length();
+        bool rev = false;
+        for(int i=0;i<n;i++){
+            if(s[i]=='i'){
+                rev= !rev;
             }
             else{
-                reverse(st.begin(),st.end());
+                if(!rev){
+                    d.push_back(s[i]);
+                }
+                else{
+                    d.push_front(s[i]);
+                }
             }
+        }
+        string st(d.begin(), d.end());
+        if(rev){
+            reverse(st.begin(), st.end());
         }
         return st;
     }
