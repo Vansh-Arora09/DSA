@@ -1,15 +1,28 @@
 class Solution {
 public:
+    long long getmax(int w, long long limit){
+        long long low = 0;
+        long long high = 1e6;
+        long long units=0;
 
+        while(low<=high){
+            long long x = low + (high-low)/2;
+
+            if(w*(x*(x+1))/2 > limit){
+                high = x-1;
+            }
+            else{
+                units=x;
+                low = x+1;
+            }
+        }
+        return units;
+    }
     bool canposs(long long maxheig, int mounheig, vector<int>&worker){
         
         long long total=0;
         for(int w : worker){
-
-            long long limit = 2 * maxheig/w;
-            long long quad = (-1 + sqrt(1 + 4*limit))/2;
-
-            total+= quad;
+            total+= getmax(w, maxheig);
 
             if(total >= mounheig) return true;
         }
