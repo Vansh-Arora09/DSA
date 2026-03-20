@@ -4,7 +4,7 @@ public:
         int m = grid.size();
         int n = grid[0].size();
 
-        vector<vector<int>> ans(m-k+1, vector<int>(n-k+1, 0));
+        vector<vector<int>> res(m-k+1, vector<int>(n-k+1,0));
 
         for(int i=0;i<=m-k;i++){
             for(int j=0;j<=n-k;j++){
@@ -15,23 +15,21 @@ public:
                         uniq.insert(grid[r][c]);
                     }
                 }
-                vector<int> sub(uniq.begin(), uniq.end());
-                if(sub.size()<2){
-                    ans[i][j]=0;
+
+                vector<int> slid(uniq.begin(),uniq.end());
+                if(slid.size()<2){
+                    res[i][j]=0;
                     continue;
                 }
-                sort(sub.begin(), sub.end());
-
-                int res = INT_MAX;
-                for(int id=1;id<sub.size();id++){
-                    int mindiff = sub[id] - sub[id-1];
-                    res = min(res, mindiff);
-                    if(res==0) break; // we can't get smaller than this
+                int mindiff=INT_MAX;
+                for(int idx=1;idx<slid.size();idx++){
+                    mindiff = min(mindiff, slid[idx]-slid[idx-1]);
+                    if(mindiff==0) break;
                 }
 
-                ans[i][j] = res;
+                res[i][j] = mindiff;
             }
         }
-        return ans;
+        return res;
     }
 };
