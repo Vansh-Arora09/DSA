@@ -1,45 +1,31 @@
 class Solution {
 public:
-    void mergesort(vector<int>&arr, int left, int mid, int high){
-        int i=left;
-        int j=mid+1;
-        vector<int> temp;
-
-        while(i<=mid && j<=high){
-            if(arr[i]<=arr[j]){
-                temp.push_back(arr[i]);
+    int part(vector<int>&arr, int low, int high){
+        int random = low + rand() % (high-low+1);
+        swap(arr[high], arr[random]);
+        int p = arr[high];
+        int i=low-1;
+        for(int j=low;j<high;j++){
+            if(arr[j]<p){
                 i++;
-            }
-            else{
-                temp.push_back(arr[j]);
-                j++;
+                swap(arr[i], arr[j]);
             }
         }
-        while(i<=mid){
-            temp.push_back(arr[i]);
-            i++;
-        }
-        while(j<=high){
-            temp.push_back(arr[j]);
-            j++;
-        }
-        for(int k=0;k<temp.size();k++){
-            arr[left+k] = temp[k];
-        }
-
+        swap(arr[i+1], arr[high]);
+        return (i+1);
     }
-    void merge(vector<int>&arr, int left, int high){
+    void quicksort(vector<int>&arr, int low, int high){
+        if(low<high){
+            int p = part(arr, low ,high);
 
-        if(left>=high) return;
-        int mid = left+(high-left)/2;
-
-        merge(arr, left, mid);
-        merge(arr, mid+1, high);
-        mergesort(arr, left, mid, high);
+            quicksort(arr, low, p-1);
+            quicksort(arr, p+1, high);
+        }
     }
     vector<int> sortArray(vector<int>& nums) {
         int n = nums.size();
-        merge(nums, 0, n-1);
+        quicksort(nums, 0, n-1);
+
         return nums;
     }
 };
