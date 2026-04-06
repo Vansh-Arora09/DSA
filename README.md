@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Vansh-Arora09/DSA/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vansh-Arora09/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Vansh-Arora09/DSA/tree/master/0759-set-intersection-size-at-least-two) |
+| [0874-walking-robot-simulation](https://github.com/Vansh-Arora09/DSA/tree/master/0874-walking-robot-simulation) |
 | [0890-lemonade-change](https://github.com/Vansh-Arora09/DSA/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Vansh-Arora09/DSA/tree/master/0898-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/Vansh-Arora09/DSA/tree/master/0912-sort-an-array) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vansh-Arora09/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0756-pyramid-transition-matrix](https://github.com/Vansh-Arora09/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vansh-Arora09/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/Vansh-Arora09/DSA/tree/master/0874-walking-robot-simulation) |
 | [0900-reordered-power-of-2](https://github.com/Vansh-Arora09/DSA/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Vansh-Arora09/DSA/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vansh-Arora09/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Vansh-Arora09/DSA/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Vansh-Arora09/DSA/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Vansh-Arora09/DSA/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/Vansh-Arora09/DSA/tree/master/0874-walking-robot-simulation) |
 | [0898-transpose-matrix](https://github.com/Vansh-Arora09/DSA/tree/master/0898-transpose-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Vansh-Arora09/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Vansh-Arora09/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
