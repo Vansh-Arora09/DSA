@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/Vansh-Arora09/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Vansh-Arora09/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Vansh-Arora09/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Vansh-Arora09/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Vansh-Arora09/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vansh-Arora09/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3721-longest-balanced-subarray-ii) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/Vansh-Arora09/DSA/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vansh-Arora09/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Vansh-Arora09/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3790-fruits-into-baskets-ii) |
 ## Enumeration
 |  |
@@ -785,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/Vansh-Arora09/DSA/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/Vansh-Arora09/DSA/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Vansh-Arora09/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Vansh-Arora09/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vansh-Arora09/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 ## Matrix
