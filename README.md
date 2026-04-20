@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Vansh-Arora09/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Vansh-Arora09/DSA/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1975-maximum-matrix-sum](https://github.com/Vansh-Arora09/DSA/tree/master/1975-maximum-matrix-sum) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Vansh-Arora09/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Vansh-Arora09/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Vansh-Arora09/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Vansh-Arora09/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vansh-Arora09/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vansh-Arora09/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2054-two-best-non-overlapping-events](https://github.com/Vansh-Arora09/DSA/tree/master/2054-two-best-non-overlapping-events) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Vansh-Arora09/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vansh-Arora09/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Vansh-Arora09/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Vansh-Arora09/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
