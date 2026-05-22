@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Vansh-Arora09/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Vansh-Arora09/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Vansh-Arora09/DSA/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Vansh-Arora09/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vansh-Arora09/DSA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Vansh-Arora09/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Vansh-Arora09/DSA/tree/master/0037-sudoku-solver) |
@@ -772,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Vansh-Arora09/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vansh-Arora09/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Vansh-Arora09/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Vansh-Arora09/DSA/tree/master/0074-search-a-2d-matrix) |
