@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Vansh-Arora09/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vansh-Arora09/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Vansh-Arora09/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vansh-Arora09/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Array
 |  |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3625-count-number-of-trapezoids-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Vansh-Arora09/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Vansh-Arora09/DSA/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3637-trionic-array-i](https://github.com/Vansh-Arora09/DSA/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Vansh-Arora09/DSA/tree/master/3643-flip-square-submatrix-vertically) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/Vansh-Arora09/DSA/tree/master/2396-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/Vansh-Arora09/DSA/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Vansh-Arora09/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Vansh-Arora09/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Combinatorics
 |  |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/Vansh-Arora09/DSA/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Vansh-Arora09/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Vansh-Arora09/DSA/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Vansh-Arora09/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Vansh-Arora09/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 ## String
@@ -828,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/Vansh-Arora09/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vansh-Arora09/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Vansh-Arora09/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Vansh-Arora09/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Vansh-Arora09/DSA/tree/master/3791-fruits-into-baskets-iii) |
