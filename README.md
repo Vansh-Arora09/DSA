@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vansh-Arora09/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Vansh-Arora09/DSA/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vansh-Arora09/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vansh-Arora09/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Vansh-Arora09/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Vansh-Arora09/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Vansh-Arora09/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -664,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Vansh-Arora09/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Vansh-Arora09/DSA/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Vansh-Arora09/DSA/tree/master/0908-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vansh-Arora09/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Vansh-Arora09/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Vansh-Arora09/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vansh-Arora09/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -704,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Vansh-Arora09/DSA/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Vansh-Arora09/DSA/tree/master/0739-daily-temperatures) |
 | [1544-make-the-string-great](https://github.com/Vansh-Arora09/DSA/tree/master/1544-make-the-string-great) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vansh-Arora09/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/Vansh-Arora09/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2751-robot-collisions](https://github.com/Vansh-Arora09/DSA/tree/master/2751-robot-collisions) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Vansh-Arora09/DSA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
