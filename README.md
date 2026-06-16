@@ -1271,4 +1271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Vansh-Arora09/DSA/tree/master/0912-sort-an-array) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/Vansh-Arora09/DSA/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
