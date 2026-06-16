@@ -1275,4 +1275,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/Vansh-Arora09/DSA/tree/master/0177-nth-highest-salary) |
+| [0178-rank-scores](https://github.com/Vansh-Arora09/DSA/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
