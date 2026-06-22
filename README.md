@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vansh-Arora09/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Vansh-Arora09/DSA/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vansh-Arora09/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Vansh-Arora09/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vansh-Arora09/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vansh-Arora09/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Vansh-Arora09/DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/Vansh-Arora09/DSA/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vansh-Arora09/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vansh-Arora09/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Vansh-Arora09/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vansh-Arora09/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Vansh-Arora09/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Vansh-Arora09/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
