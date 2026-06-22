@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-sum-of-k-mirror-numbers](https://github.com/Vansh-Arora09/DSA/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Vansh-Arora09/DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2396-strictly-palindromic-number](https://github.com/Vansh-Arora09/DSA/tree/master/2396-strictly-palindromic-number) |
+| [2485-find-the-pivot-integer](https://github.com/Vansh-Arora09/DSA/tree/master/2485-find-the-pivot-integer) |
 | [2544-alternating-digit-sum](https://github.com/Vansh-Arora09/DSA/tree/master/2544-alternating-digit-sum) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Vansh-Arora09/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Vansh-Arora09/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -1177,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/Vansh-Arora09/DSA/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vansh-Arora09/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Vansh-Arora09/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2485-find-the-pivot-integer](https://github.com/Vansh-Arora09/DSA/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Vansh-Arora09/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2625-increment-submatrices-by-one](https://github.com/Vansh-Arora09/DSA/tree/master/2625-increment-submatrices-by-one) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Vansh-Arora09/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
