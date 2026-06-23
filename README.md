@@ -793,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Vansh-Arora09/DSA/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Vansh-Arora09/DSA/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Vansh-Arora09/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Vansh-Arora09/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Vansh-Arora09/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Memoization
 |  |
@@ -1199,6 +1200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Vansh-Arora09/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Vansh-Arora09/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Vansh-Arora09/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Vansh-Arora09/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vansh-Arora09/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3721-longest-balanced-subarray-ii) |
