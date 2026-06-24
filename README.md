@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Vansh-Arora09/DSA/tree/master/0697-degree-of-an-array) |
 | [0740-delete-and-earn](https://github.com/Vansh-Arora09/DSA/tree/master/0740-delete-and-earn) |
 | [0756-pyramid-transition-matrix](https://github.com/Vansh-Arora09/DSA/tree/master/0756-pyramid-transition-matrix) |
+| [0771-jewels-and-stones](https://github.com/Vansh-Arora09/DSA/tree/master/0771-jewels-and-stones) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vansh-Arora09/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/Vansh-Arora09/DSA/tree/master/0874-walking-robot-simulation) |
 | [0900-reordered-power-of-2](https://github.com/Vansh-Arora09/DSA/tree/master/0900-reordered-power-of-2) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vansh-Arora09/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Vansh-Arora09/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/Vansh-Arora09/DSA/tree/master/0761-special-binary-string) |
+| [0771-jewels-and-stones](https://github.com/Vansh-Arora09/DSA/tree/master/0771-jewels-and-stones) |
 | [0937-reorder-data-in-log-files](https://github.com/Vansh-Arora09/DSA/tree/master/0937-reorder-data-in-log-files) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Vansh-Arora09/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [1143-longest-common-subsequence](https://github.com/Vansh-Arora09/DSA/tree/master/1143-longest-common-subsequence) |
