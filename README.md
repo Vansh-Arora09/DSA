@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Vansh-Arora09/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Vansh-Arora09/DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Vansh-Arora09/DSA/tree/master/0231-power-of-two) |
+| [0273-integer-to-english-words](https://github.com/Vansh-Arora09/DSA/tree/master/0273-integer-to-english-words) |
 | [0319-bulb-switcher](https://github.com/Vansh-Arora09/DSA/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Vansh-Arora09/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vansh-Arora09/DSA/tree/master/0342-power-of-four) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Vansh-Arora09/DSA/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vansh-Arora09/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Vansh-Arora09/DSA/tree/master/0242-valid-anagram) |
+| [0273-integer-to-english-words](https://github.com/Vansh-Arora09/DSA/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Vansh-Arora09/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Vansh-Arora09/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vansh-Arora09/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -726,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Vansh-Arora09/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Vansh-Arora09/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Vansh-Arora09/DSA/tree/master/0234-palindrome-linked-list) |
+| [0273-integer-to-english-words](https://github.com/Vansh-Arora09/DSA/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Vansh-Arora09/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vansh-Arora09/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Vansh-Arora09/DSA/tree/master/0509-fibonacci-number) |
