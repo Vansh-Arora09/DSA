@@ -1042,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vansh-Arora09/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Vansh-Arora09/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Vansh-Arora09/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vansh-Arora09/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vansh-Arora09/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vansh-Arora09/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3863-power-grid-maintenance](https://github.com/Vansh-Arora09/DSA/tree/master/3863-power-grid-maintenance) |
@@ -1095,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vansh-Arora09/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Vansh-Arora09/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Vansh-Arora09/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vansh-Arora09/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Vansh-Arora09/DSA/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Vansh-Arora09/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3863-power-grid-maintenance](https://github.com/Vansh-Arora09/DSA/tree/master/3863-power-grid-maintenance) |
@@ -1314,6 +1316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Vansh-Arora09/DSA/tree/master/0133-clone-graph) |
 | [0785-is-graph-bipartite](https://github.com/Vansh-Arora09/DSA/tree/master/0785-is-graph-bipartite) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vansh-Arora09/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Vansh-Arora09/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Vansh-Arora09/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Vansh-Arora09/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1343,6 +1346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Vansh-Arora09/DSA/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Vansh-Arora09/DSA/tree/master/0785-is-graph-bipartite) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vansh-Arora09/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vansh-Arora09/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vansh-Arora09/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vansh-Arora09/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Rolling Hash
