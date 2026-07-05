@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vansh-Arora09/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Vansh-Arora09/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vansh-Arora09/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1301-number-of-paths-with-max-score](https://github.com/Vansh-Arora09/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/Vansh-Arora09/DSA/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Vansh-Arora09/DSA/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vansh-Arora09/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -799,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/Vansh-Arora09/DSA/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Vansh-Arora09/DSA/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vansh-Arora09/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1301-number-of-paths-with-max-score](https://github.com/Vansh-Arora09/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/Vansh-Arora09/DSA/tree/master/1340-jump-game-v) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Vansh-Arora09/DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Vansh-Arora09/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -962,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Vansh-Arora09/DSA/tree/master/0898-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Vansh-Arora09/DSA/tree/master/0994-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vansh-Arora09/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1301-number-of-paths-with-max-score](https://github.com/Vansh-Arora09/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vansh-Arora09/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vansh-Arora09/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vansh-Arora09/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
