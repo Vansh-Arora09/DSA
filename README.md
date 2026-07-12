@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Vansh-Arora09/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Vansh-Arora09/DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Vansh-Arora09/DSA/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Vansh-Arora09/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Vansh-Arora09/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Vansh-Arora09/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Vansh-Arora09/DSA/tree/master/0051-n-queens) |
@@ -847,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Vansh-Arora09/DSA/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Vansh-Arora09/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Vansh-Arora09/DSA/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Vansh-Arora09/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Vansh-Arora09/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Vansh-Arora09/DSA/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Vansh-Arora09/DSA/tree/master/0113-path-sum-ii) |
