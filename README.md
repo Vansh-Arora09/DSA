@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Vansh-Arora09/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Vansh-Arora09/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/Vansh-Arora09/DSA/tree/master/3830-find-closest-person) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vansh-Arora09/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3791-fruits-into-baskets-iii](https://github.com/Vansh-Arora09/DSA/tree/master/3791-fruits-into-baskets-iii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vansh-Arora09/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Vansh-Arora09/DSA/tree/master/3863-power-grid-maintenance) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vansh-Arora09/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Vansh-Arora09/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Vansh-Arora09/DSA/tree/master/3643-flip-square-submatrix-vertically) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vansh-Arora09/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
 | ------- |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Vansh-Arora09/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Vansh-Arora09/DSA/tree/master/3748-sort-matrix-by-diagonals) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vansh-Arora09/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -679,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3614-process-string-with-special-operations-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Vansh-Arora09/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3790-fruits-into-baskets-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vansh-Arora09/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -1291,6 +1296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Vansh-Arora09/DSA/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vansh-Arora09/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vansh-Arora09/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String Matching
 |  |
 | ------- |
