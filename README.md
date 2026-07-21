@@ -1406,6 +1406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0177-nth-highest-salary](https://github.com/Vansh-Arora09/DSA/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/Vansh-Arora09/DSA/tree/master/0178-rank-scores) |
+| [0620-not-boring-movies](https://github.com/Vansh-Arora09/DSA/tree/master/0620-not-boring-movies) |
 ## Game Theory
 |  |
 | ------- |
