@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vansh-Arora09/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Vansh-Arora09/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/Vansh-Arora09/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Vansh-Arora09/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vansh-Arora09/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vansh-Arora09/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Vansh-Arora09/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Vansh-Arora09/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vansh-Arora09/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/Vansh-Arora09/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Vansh-Arora09/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vansh-Arora09/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Vansh-Arora09/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vansh-Arora09/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Vansh-Arora09/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Vansh-Arora09/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/Vansh-Arora09/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Vansh-Arora09/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vansh-Arora09/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vansh-Arora09/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Vansh-Arora09/DSA/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
@@ -912,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vansh-Arora09/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Vansh-Arora09/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Vansh-Arora09/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Vansh-Arora09/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vansh-Arora09/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Vansh-Arora09/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/Vansh-Arora09/DSA/tree/master/2054-two-best-non-overlapping-events) |
@@ -939,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Vansh-Arora09/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vansh-Arora09/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vansh-Arora09/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Vansh-Arora09/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/Vansh-Arora09/DSA/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vansh-Arora09/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vansh-Arora09/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -1254,6 +1259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vansh-Arora09/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/Vansh-Arora09/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/Vansh-Arora09/DSA/tree/master/1732-find-the-highest-altitude) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Vansh-Arora09/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/Vansh-Arora09/DSA/tree/master/1871-jump-game-vii) |
 | [1895-largest-magic-square](https://github.com/Vansh-Arora09/DSA/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vansh-Arora09/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
