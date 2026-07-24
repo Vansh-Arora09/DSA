@@ -1,24 +1,21 @@
 class Solution {
 public:
-    string reversii(string &s, int i, int j){
-        while(i<j){
+    void rev(string& s, int i, int j){
+        while(i<=j){
             swap(s[i], s[j]);
-            i++, j--;
+            i++,j--;
         }
-        return s;
-        
     }
     string reverseWords(string s) {
-        int start=0;
-        int i=0;
         int n = s.length();
-        while(start<n){
+        int srt=0, i=0;
+        while(srt<n){
             while(i<n && s[i]!=' '){
                 i++;
             }
-            reversii(s, start, i-1);
-            start = i+1;
-            i = start;
+            rev(s, srt,i-1);
+            srt = i+1;
+            i = srt;
         }
         return s;
     }
