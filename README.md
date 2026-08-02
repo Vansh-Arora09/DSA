@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Vansh-Arora09/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vansh-Arora09/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0826-soup-servings](https://github.com/Vansh-Arora09/DSA/tree/master/0826-soup-servings) |
+| [0877-stone-game](https://github.com/Vansh-Arora09/DSA/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/Vansh-Arora09/DSA/tree/master/0887-super-egg-drop) |
 | [0900-reordered-power-of-2](https://github.com/Vansh-Arora09/DSA/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Vansh-Arora09/DSA/tree/master/1013-fibonacci-number) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vansh-Arora09/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Vansh-Arora09/DSA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0874-walking-robot-simulation](https://github.com/Vansh-Arora09/DSA/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/Vansh-Arora09/DSA/tree/master/0877-stone-game) |
 | [0890-lemonade-change](https://github.com/Vansh-Arora09/DSA/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Vansh-Arora09/DSA/tree/master/0898-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/Vansh-Arora09/DSA/tree/master/0912-sort-an-array) |
@@ -843,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Vansh-Arora09/DSA/tree/master/0740-delete-and-earn) |
 | [0799-champagne-tower](https://github.com/Vansh-Arora09/DSA/tree/master/0799-champagne-tower) |
 | [0826-soup-servings](https://github.com/Vansh-Arora09/DSA/tree/master/0826-soup-servings) |
+| [0877-stone-game](https://github.com/Vansh-Arora09/DSA/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/Vansh-Arora09/DSA/tree/master/0887-super-egg-drop) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Vansh-Arora09/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Vansh-Arora09/DSA/tree/master/1013-fibonacci-number) |
@@ -1452,4 +1455,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Vansh-Arora09/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/Vansh-Arora09/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Vansh-Arora09/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
