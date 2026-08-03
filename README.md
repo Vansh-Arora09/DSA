@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/Vansh-Arora09/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Vansh-Arora09/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Vansh-Arora09/DSA/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/Vansh-Arora09/DSA/tree/master/1406-stone-game-iii) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Vansh-Arora09/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Vansh-Arora09/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Vansh-Arora09/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vansh-Arora09/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Vansh-Arora09/DSA/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vansh-Arora09/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1406-stone-game-iii](https://github.com/Vansh-Arora09/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vansh-Arora09/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Vansh-Arora09/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vansh-Arora09/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -855,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vansh-Arora09/DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vansh-Arora09/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/Vansh-Arora09/DSA/tree/master/1340-jump-game-v) |
+| [1406-stone-game-iii](https://github.com/Vansh-Arora09/DSA/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Vansh-Arora09/DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Vansh-Arora09/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vansh-Arora09/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -1456,4 +1459,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Vansh-Arora09/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/Vansh-Arora09/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Vansh-Arora09/DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Vansh-Arora09/DSA/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Vansh-Arora09/DSA/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Vansh-Arora09/DSA/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
