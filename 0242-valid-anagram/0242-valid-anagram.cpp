@@ -1,21 +1,16 @@
 class Solution {
 public:
-    bool isAnagram(string a, string b) {
-        
-        if(a.length()!=b.length()){
-            return false;
+    bool isAnagram(string s, string t) {
+        unordered_map<char,int> mpp;
+        for(char c : s){
+            mpp[c]++;
         }
-        map<int,int> mpp;
-        for(int i=0;i<a.length();i++){
-            mpp[a[i]]++;
+        for(char c : t){
+            mpp[c]--;
         }
-        for(int i=0;i<b.length();i++){
-            mpp[b[i]]--;
-        }
-        for(auto it :mpp){
+        for(auto it : mpp){
             if(it.second!=0) return false;
         }
         return true;
-    
     }
 };
