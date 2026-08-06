@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Vansh-Arora09/DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vansh-Arora09/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Vansh-Arora09/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Vansh-Arora09/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Vansh-Arora09/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Vansh-Arora09/DSA/tree/master/3433-count-mentions-per-user) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vansh-Arora09/DSA/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Vansh-Arora09/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vansh-Arora09/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Vansh-Arora09/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Vansh-Arora09/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Vansh-Arora09/DSA/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Vansh-Arora09/DSA/tree/master/3713-longest-balanced-substring-i) |
