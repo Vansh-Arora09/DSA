@@ -1,50 +1,36 @@
 class Solution {
 public:
-
-    vector<vector<string>> ans;
-    vector<string> arrangements;
-
-    bool isValid(int r, int c){
-        if(r==arrangements.size()) return false;
-
-        for(int top=r;top>=0;top--){
-            if(arrangements[top][c]=='Q') return false;
+    vector<vector<string>> res;
+    unordered_set<int> cols, diag1, diag2;
+    void solve(int row, int n, vector<string>&board){
+        if(row==board.size()){
+            res.push_back(board);
+            return;
         }
+        for(int i=0;i<n;i++){
+            int d1 = row-i;
+            int d2 = row+i;
 
-        int startr = r; int startc = c;
+            if(cols.count(i) || diag1.count(d1) || diag2.count(d2)){
+                continue;
+            }
 
-        while(startr>=0 && startc!=arrangements.size()){
-            if(arrangements[startr][startc]=='Q') return false;
-            startr--, startc++;
-        }
+            board[row][i] = 'Q';
+            cols.insert(i);
+            diag1.insert(d1);
+            diag2.insert(d2);
 
-        startr=r, startc = c;
+            solve(row+1,n,board);
 
-        while(startr>=0 && startc>=0){
-            if(arrangements[startr][startc]=='Q') return false;
-            startr--, startc--;
-        }
-        return true;
-    }
-void placingQueen(int r, int c, int placed, int n){
-    if(placed==n){
-        ans.push_back(arrangements);
-        return ;
-    }
-
-    for(int curcol = c; curcol<n ;curcol++){
-        if(isValid(r,curcol)){
-            arrangements[r][curcol] = 'Q';
-            placingQueen(r+1,0,placed+1, n);
-            arrangements[r][curcol] = '.';
+            board[row][i] = '.';
+            cols.erase(i);
+            diag1.erase(d1);
+            diag2.erase(d2);
         }
     }
-}
     vector<vector<string>> solveNQueens(int n) {
-        
-        arrangements.resize(n,string(n,'.'));
-        placingQueen(0,0,0,n);
-        
-        return ans;
+        vector<string> board(n, string(n,'.'));
+        solve(0, n, board);
+        return res;
     }
 };
