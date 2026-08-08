@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Vansh-Arora09/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vansh-Arora09/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vansh-Arora09/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Vansh-Arora09/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vansh-Arora09/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Vansh-Arora09/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2396-strictly-palindromic-number](https://github.com/Vansh-Arora09/DSA/tree/master/2396-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/Vansh-Arora09/DSA/tree/master/2540-minimum-common-value) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vansh-Arora09/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Vansh-Arora09/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Vansh-Arora09/DSA/tree/master/3643-flip-square-submatrix-vertically) |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/Vansh-Arora09/DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Vansh-Arora09/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vansh-Arora09/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3340-check-balanced-string](https://github.com/Vansh-Arora09/DSA/tree/master/3340-check-balanced-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Vansh-Arora09/DSA/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -879,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Vansh-Arora09/DSA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Vansh-Arora09/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vansh-Arora09/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Vansh-Arora09/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Vansh-Arora09/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3620-network-recovery-pathways](https://github.com/Vansh-Arora09/DSA/tree/master/3620-network-recovery-pathways) |
