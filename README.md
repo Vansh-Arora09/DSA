@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Vansh-Arora09/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Vansh-Arora09/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Vansh-Arora09/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Vansh-Arora09/DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Vansh-Arora09/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Vansh-Arora09/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2689-rearranging-fruits](https://github.com/Vansh-Arora09/DSA/tree/master/2689-rearranging-fruits) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/Vansh-Arora09/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Vansh-Arora09/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Vansh-Arora09/DSA/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Vansh-Arora09/DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vansh-Arora09/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Vansh-Arora09/DSA/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Vansh-Arora09/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vansh-Arora09/DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Vansh-Arora09/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Vansh-Arora09/DSA/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Vansh-Arora09/DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Vansh-Arora09/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2540-minimum-common-value](https://github.com/Vansh-Arora09/DSA/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Vansh-Arora09/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -689,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vansh-Arora09/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vansh-Arora09/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Vansh-Arora09/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Vansh-Arora09/DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2833-furthest-point-from-origin](https://github.com/Vansh-Arora09/DSA/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Vansh-Arora09/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
