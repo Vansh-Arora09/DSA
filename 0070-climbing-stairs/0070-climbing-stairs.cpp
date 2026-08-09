@@ -1,14 +1,15 @@
 class Solution {
 public:
-    int stairs(int n, vector<int>&m){
-        if(m[n]!=-1) return m[n];
-        m[n] = stairs(n-1,m) + stairs(n-2,m);
-        return m[n];
+    vector<int> dp;
+    int solve(int n){
+        if(n<=2) return n;
+        if(dp[n]!=0) return dp[n];
+        return dp[n] = solve(n-1)+solve(n-2);
     }
+
+
     int climbStairs(int n) {
-        vector<int> m(n+1,-1);
-        m[0]=1;
-        m[1] =1;
-        return stairs(n,m);
+        dp.assign(n+1,0);
+        return solve(n);
     }
 };
