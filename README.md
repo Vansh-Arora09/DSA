@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Vansh-Arora09/DSA/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Vansh-Arora09/DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1033-broken-calculator](https://github.com/Vansh-Arora09/DSA/tree/master/1033-broken-calculator) |
+| [1137-n-th-tribonacci-number](https://github.com/Vansh-Arora09/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Vansh-Arora09/DSA/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Vansh-Arora09/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Vansh-Arora09/DSA/tree/master/1266-minimum-time-visiting-all-points) |
@@ -861,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/Vansh-Arora09/DSA/tree/master/0887-super-egg-drop) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Vansh-Arora09/DSA/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Vansh-Arora09/DSA/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Vansh-Arora09/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Vansh-Arora09/DSA/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Vansh-Arora09/DSA/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Vansh-Arora09/DSA/tree/master/1170-shortest-common-supersequence) |
@@ -903,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Vansh-Arora09/DSA/tree/master/0509-fibonacci-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Vansh-Arora09/DSA/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1013-fibonacci-number](https://github.com/Vansh-Arora09/DSA/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Vansh-Arora09/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Vansh-Arora09/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Vansh-Arora09/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Backtracking
