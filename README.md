@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Vansh-Arora09/DSA/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/Vansh-Arora09/DSA/tree/master/1406-stone-game-iii) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Vansh-Arora09/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1510-stone-game-iv](https://github.com/Vansh-Arora09/DSA/tree/master/1510-stone-game-iv) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Vansh-Arora09/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Vansh-Arora09/DSA/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vansh-Arora09/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -879,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Vansh-Arora09/DSA/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Vansh-Arora09/DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Vansh-Arora09/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1510-stone-game-iv](https://github.com/Vansh-Arora09/DSA/tree/master/1510-stone-game-iv) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vansh-Arora09/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Vansh-Arora09/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vansh-Arora09/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1491,19 +1493,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Vansh-Arora09/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Vansh-Arora09/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Vansh-Arora09/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Vansh-Arora09/DSA/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Vansh-Arora09/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Vansh-Arora09/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Vansh-Arora09/DSA/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Vansh-Arora09/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Vansh-Arora09/DSA/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Vansh-Arora09/DSA/tree/master/1510-stone-game-iv) |
 ## Algorithm X
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Vansh-Arora09/DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Vansh-Arora09/DSA/tree/master/0052-n-queens-ii) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Vansh-Arora09/DSA/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Vansh-Arora09/DSA/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
