@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vansh-Arora09/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/Vansh-Arora09/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/Vansh-Arora09/DSA/tree/master/1925-count-square-sum-triples) |
+| [2029-stone-game-ix](https://github.com/Vansh-Arora09/DSA/tree/master/2029-stone-game-ix) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vansh-Arora09/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Vansh-Arora09/DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Vansh-Arora09/DSA/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Vansh-Arora09/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/Vansh-Arora09/DSA/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1975-maximum-matrix-sum](https://github.com/Vansh-Arora09/DSA/tree/master/1975-maximum-matrix-sum) |
+| [2029-stone-game-ix](https://github.com/Vansh-Arora09/DSA/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vansh-Arora09/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Vansh-Arora09/DSA/tree/master/2126-destroying-asteroids) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Vansh-Arora09/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Vansh-Arora09/DSA/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Vansh-Arora09/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vansh-Arora09/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2029-stone-game-ix](https://github.com/Vansh-Arora09/DSA/tree/master/2029-stone-game-ix) |
 | [2054-two-best-non-overlapping-events](https://github.com/Vansh-Arora09/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Vansh-Arora09/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vansh-Arora09/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -701,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vansh-Arora09/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Vansh-Arora09/DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vansh-Arora09/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2029-stone-game-ix](https://github.com/Vansh-Arora09/DSA/tree/master/2029-stone-game-ix) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Vansh-Arora09/DSA/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Vansh-Arora09/DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2833-furthest-point-from-origin](https://github.com/Vansh-Arora09/DSA/tree/master/2833-furthest-point-from-origin) |
@@ -1503,18 +1507,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Vansh-Arora09/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Vansh-Arora09/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Vansh-Arora09/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Vansh-Arora09/DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Vansh-Arora09/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Vansh-Arora09/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Vansh-Arora09/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Vansh-Arora09/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Vansh-Arora09/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Vansh-Arora09/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Vansh-Arora09/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Vansh-Arora09/DSA/tree/master/2029-stone-game-ix) |
 ## Algorithm X
 |  |
 | ------- |
@@ -1524,6 +1531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Vansh-Arora09/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Vansh-Arora09/DSA/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
