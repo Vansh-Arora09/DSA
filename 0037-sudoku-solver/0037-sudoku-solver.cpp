@@ -1,47 +1,45 @@
 class Solution {
 public:
-    vector<vector<char>> ans;
-    bool isValid(int r, int c, char num, vector<vector<char>>& sudoku) {
-        if(sudoku[r][c] != '.') return false;
-        for(int curr = 0; curr < 9; curr++) {
-            if(sudoku[curr][c] == num) return false;
-            if(sudoku[r][curr] == num) return false;
+    bool isValid(vector<vector<char>>&board, int row, int col, char c){
+        for(int i=0;i<9;i++){
+            if(board[i][col]==c) return false;
         }
-        // Defining boundary for boxes
-        int startRow = (r / 3) * 3;
-        int startCol = (c / 3) * 3;
+        for(int j=0;j<9;j++){
+            if(board[row][j]==c) return false;
+        }
 
-        for(int i = startRow; i < startRow + 3; i++) {
-            for(int j = startCol; j < startCol + 3; j++) {
-                if(sudoku[i][j] == num) return false;
+        int r = row-row%3;
+        int cl = col-col%3;
+
+        for(int i=r;i<r+3;i++){
+            for(int j=cl;j<cl+3;j++){
+                if(board[i][j]==c){
+                    return false;
+                }
             }
         }
         return true;
     }
+    bool solve(vector<vector<char>>&board){
+        for(int row=0;row<9;row++){
+            for(int col=0;col<9;col++){
+                if(board[row][col]=='.'){
+                    for(char c='1';c<='9';c++){
+                        if(isValid(board, row, col, c)){
+                            board[row][col]=c;
+                            if(solve(board)) return true;
 
-    void solver(int r, int c, int emptyCell, vector<vector<char>>& sudoku) {
-        if(emptyCell == 0) {
-            ans = sudoku;
-            return;
-        }
-    
-        if(sudoku[r][c] != '.') {
-            solver(r + (c + 1 == 9), (c + 1) % 9, emptyCell, sudoku);
-        }
-        for(char i = '1'; i <= '9'; i++) {
-            
-            if(isValid(r, c, i, sudoku)) {
-                sudoku[r][c] = i;
-                solver(r + (c + 1 == 9), (c + 1) % 9, emptyCell - 1, sudoku);
-                sudoku[r][c] = '.';
+                            board[row][col]='.';
+                        }
+
+                    }
+                    return false;
+                }
             }
         }
+        return true;
     }
-
     void solveSudoku(vector<vector<char>>& board) {
-        int emptyCell = 0;
-        for(int i = 0; i < 9; i++) for(int j = 0; j < 9; j++) emptyCell += (board[i][j] == '.');
-        solver(0, 0, emptyCell, board);
-        board = ans;
+        solve(board);
     }
 };
