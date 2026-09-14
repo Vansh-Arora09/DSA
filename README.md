@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Vansh-Arora09/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Vansh-Arora09/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0826-soup-servings](https://github.com/Vansh-Arora09/DSA/tree/master/0826-soup-servings) |
+| [0836-rectangle-overlap](https://github.com/Vansh-Arora09/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Vansh-Arora09/DSA/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/Vansh-Arora09/DSA/tree/master/0887-super-egg-drop) |
 | [0900-reordered-power-of-2](https://github.com/Vansh-Arora09/DSA/tree/master/0900-reordered-power-of-2) |
@@ -1441,6 +1442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Vansh-Arora09/DSA/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Vansh-Arora09/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Vansh-Arora09/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
