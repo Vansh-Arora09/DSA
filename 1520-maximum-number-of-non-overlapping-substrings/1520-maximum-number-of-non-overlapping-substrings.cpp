@@ -93,7 +93,7 @@ public:
 
         vector<string> res;
 
-        for(int i=cnt-1;i>=0;i--){
+        for(int i=0;i<cnt;i++){
             if(out_deg[i]==0){
                 //6. checking for left and rightmost index of a valid range
                 int left = n;
