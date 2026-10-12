@@ -668,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/Vansh-Arora09/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/Vansh-Arora09/DSA/tree/master/0761-special-binary-string) |
 | [0771-jewels-and-stones](https://github.com/Vansh-Arora09/DSA/tree/master/0771-jewels-and-stones) |
+| [0856-score-of-parentheses](https://github.com/Vansh-Arora09/DSA/tree/master/0856-score-of-parentheses) |
 | [0937-reorder-data-in-log-files](https://github.com/Vansh-Arora09/DSA/tree/master/0937-reorder-data-in-log-files) |
 | [0940-distinct-subsequences-ii](https://github.com/Vansh-Arora09/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Vansh-Arora09/DSA/tree/master/0944-delete-columns-to-make-sorted) |
@@ -881,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Vansh-Arora09/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Vansh-Arora09/DSA/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/Vansh-Arora09/DSA/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/Vansh-Arora09/DSA/tree/master/0856-score-of-parentheses) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Vansh-Arora09/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1544-make-the-string-great](https://github.com/Vansh-Arora09/DSA/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vansh-Arora09/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -1605,4 +1607,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Vansh-Arora09/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Vansh-Arora09/DSA/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
