@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Vansh-Arora09/DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2396-strictly-palindromic-number](https://github.com/Vansh-Arora09/DSA/tree/master/2396-strictly-palindromic-number) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Vansh-Arora09/DSA/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
+| [2409-count-days-spent-together](https://github.com/Vansh-Arora09/DSA/tree/master/2409-count-days-spent-together) |
 | [2485-find-the-pivot-integer](https://github.com/Vansh-Arora09/DSA/tree/master/2485-find-the-pivot-integer) |
 | [2544-alternating-digit-sum](https://github.com/Vansh-Arora09/DSA/tree/master/2544-alternating-digit-sum) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Vansh-Arora09/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/Vansh-Arora09/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Vansh-Arora09/DSA/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Vansh-Arora09/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2409-count-days-spent-together](https://github.com/Vansh-Arora09/DSA/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/Vansh-Arora09/DSA/tree/master/2418-sort-the-people) |
 | [2810-faulty-keyboard](https://github.com/Vansh-Arora09/DSA/tree/master/2810-faulty-keyboard) |
 | [2833-furthest-point-from-origin](https://github.com/Vansh-Arora09/DSA/tree/master/2833-furthest-point-from-origin) |
