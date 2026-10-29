@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Vansh-Arora09/DSA/tree/master/3791-fruits-into-baskets-iii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Vansh-Arora09/DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Vansh-Arora09/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-power-grid-maintenance](https://github.com/Vansh-Arora09/DSA/tree/master/3863-power-grid-maintenance) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vansh-Arora09/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Vansh-Arora09/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -739,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3714-longest-balanced-substring-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Vansh-Arora09/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Vansh-Arora09/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Vansh-Arora09/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Vansh-Arora09/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Vansh-Arora09/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -1111,6 +1113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/Vansh-Arora09/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vansh-Arora09/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Vansh-Arora09/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -1195,6 +1198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Vansh-Arora09/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Vansh-Arora09/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vansh-Arora09/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Vansh-Arora09/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Vansh-Arora09/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -1283,6 +1287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3310-remove-methods-from-project](https://github.com/Vansh-Arora09/DSA/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Vansh-Arora09/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vansh-Arora09/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Vansh-Arora09/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-power-grid-maintenance](https://github.com/Vansh-Arora09/DSA/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
@@ -1347,6 +1352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/Vansh-Arora09/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Vansh-Arora09/DSA/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Vansh-Arora09/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Vansh-Arora09/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1449,6 +1455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vansh-Arora09/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Vansh-Arora09/DSA/tree/master/3791-fruits-into-baskets-iii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Vansh-Arora09/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1628,4 +1635,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Vansh-Arora09/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Vansh-Arora09/DSA/tree/master/0856-score-of-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Vansh-Arora09/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
