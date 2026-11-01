@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Vansh-Arora09/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Vansh-Arora09/DSA/tree/master/0342-power-of-four) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Vansh-Arora09/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Vansh-Arora09/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Vansh-Arora09/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Vansh-Arora09/DSA/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Vansh-Arora09/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Vansh-Arora09/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Vansh-Arora09/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vansh-Arora09/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Vansh-Arora09/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Vansh-Arora09/DSA/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/Vansh-Arora09/DSA/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Vansh-Arora09/DSA/tree/master/0485-max-consecutive-ones) |
