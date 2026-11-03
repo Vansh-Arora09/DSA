@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vansh-Arora09/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Vansh-Arora09/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Vansh-Arora09/DSA/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Vansh-Arora09/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Vansh-Arora09/DSA/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Vansh-Arora09/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Vansh-Arora09/DSA/tree/master/3783-mirror-distance-of-an-integer) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/Vansh-Arora09/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Vansh-Arora09/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Vansh-Arora09/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Vansh-Arora09/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vansh-Arora09/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Vansh-Arora09/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Vansh-Arora09/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
