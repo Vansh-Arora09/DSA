@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vansh-Arora09/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vansh-Arora09/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vansh-Arora09/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vansh-Arora09/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Vansh-Arora09/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/Vansh-Arora09/DSA/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vansh-Arora09/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Vansh-Arora09/DSA/tree/master/0696-count-binary-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/Vansh-Arora09/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Vansh-Arora09/DSA/tree/master/0917-boats-to-save-people) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vansh-Arora09/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Vansh-Arora09/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vansh-Arora09/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Vansh-Arora09/DSA/tree/master/1861-rotating-the-box) |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/Vansh-Arora09/DSA/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vansh-Arora09/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vansh-Arora09/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vansh-Arora09/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vansh-Arora09/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Vansh-Arora09/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vansh-Arora09/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -1067,6 +1070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vansh-Arora09/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vansh-Arora09/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Vansh-Arora09/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Vansh-Arora09/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Vansh-Arora09/DSA/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Vansh-Arora09/DSA/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vansh-Arora09/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
