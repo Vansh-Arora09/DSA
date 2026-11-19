@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Vansh-Arora09/DSA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Vansh-Arora09/DSA/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Vansh-Arora09/DSA/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Vansh-Arora09/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2689-rearranging-fruits](https://github.com/Vansh-Arora09/DSA/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Vansh-Arora09/DSA/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vansh-Arora09/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Vansh-Arora09/DSA/tree/master/2540-minimum-common-value) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Vansh-Arora09/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Vansh-Arora09/DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Vansh-Arora09/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/Vansh-Arora09/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2625-increment-submatrices-by-one](https://github.com/Vansh-Arora09/DSA/tree/master/2625-increment-submatrices-by-one) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Vansh-Arora09/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Vansh-Arora09/DSA/tree/master/2418-sort-the-people) |
 | [2463-minimum-total-distance-traveled](https://github.com/Vansh-Arora09/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Vansh-Arora09/DSA/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Vansh-Arora09/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2689-rearranging-fruits](https://github.com/Vansh-Arora09/DSA/tree/master/2689-rearranging-fruits) |
 | [2751-robot-collisions](https://github.com/Vansh-Arora09/DSA/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/Vansh-Arora09/DSA/tree/master/2784-check-if-array-is-good) |
